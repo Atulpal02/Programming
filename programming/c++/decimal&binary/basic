@@ -1,0 +1,7 @@
+to convert decimal into binary ruless
+
+divisor 2
+n is given
+n/2 store the remainder
+the order of remainder sstored 
+reverse the order you get binary
